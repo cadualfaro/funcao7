@@ -1,8 +1,3 @@
-/*
-Atividade 4
-
-Criar uma função que recebe um vetor e inverte a ordem de seus elementos
- */
 package funcao7;
     public class Funcao7 {
         static int[] inverte(int vet1[]){
